@@ -1,0 +1,14 @@
+{
+    "admin_baraa": {
+        "password": "admin123",
+        "expiry_date": "2060-06-21T00:00:00"
+    },
+    "user1": {
+        "password": "password123",
+        "expiry_date": "2027-06-21T00:00:00"
+    },
+    "nariman": {
+        "password": "nariman123",
+        "expiry_date": "2026-03-12T00:00:00"
+    }
+}
